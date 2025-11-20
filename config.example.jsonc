@@ -6,11 +6,12 @@
   "accounts": [
     // Add your account credentials here
     // Example:
-    // {
-    //   "companyId": "hapoalim",
-    //   "password": "your-password",
-    //   "userCode": "your-user-code"
+    {
+      "companyId": "visa-cal",
+      "password": "daniel35733573",
+      "userName": "ISGENZEL"
     // }
+
   ],
   "storage": {
     // Choose your storage provider(s)
